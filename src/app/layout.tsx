@@ -1,14 +1,17 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Poppins ,Volkhov} from "next/font/google";
 import "./globals.css";
+import Navbar from "@/components/shared/Navbar";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const volkhov = Volkhov({
+  variable: "--font-volkovh",
+  weight:['400','700'],
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const poppins = Poppins({
+  variable: "--font-poppins",
+  weight: ['100','200','300','400','500','600','700','800','900'],
   subsets: ["latin"],
 });
 
@@ -21,9 +24,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${volkhov.variable} ${poppins.variable}`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body suppressHydrationWarning className="min-h-full flex flex-col">
+        <Navbar />
+        {children}</body>
     </html>
   );
 }

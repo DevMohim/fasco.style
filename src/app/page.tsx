@@ -1,10 +1,18 @@
-import Image from "next/image";
+import BrandLogo from "@/components/Homepage/BrandLogo";
+import Hero from "@/components/Homepage/Hero";
+import NewArrivals from "@/components/Homepage/NewArrivals";
+import PeakyBlinder from "@/components/Homepage/PeakyBlinder";
+import { Suspense } from "react";
 
 export default function Home() {
   return (
-    <main>
-      Home Page
-      
+    <main className="my-5">
+      <Hero />
+      <BrandLogo />
+      <Suspense fallback={<h1 className="animate-pulse">Loading...</h1>}>
+        <NewArrivals />
+      </Suspense>
+      <PeakyBlinder />
     </main>
   );
 }

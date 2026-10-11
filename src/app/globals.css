@@ -8,6 +8,7 @@
   --font-volkhov: "volkhov",serif;
 
   --color-dark : #000000;
+  --color-ash : #E0E0E0;
 }
 body{
   font-family: var(--font-primary);

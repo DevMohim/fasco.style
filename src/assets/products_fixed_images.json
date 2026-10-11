@@ -1,0 +1,2710 @@
+{
+  "products": [
+    {
+      "id": "fashion-001",
+      "title": "Oversized Cotton T-Shirt",
+      "slug": "oversized-cotton-t-shirt",
+      "description": "Oversized Cotton T-Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1299,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Urban Edge",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 7,
+      "rating": 4.7,
+      "reviews": 143,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-002",
+      "title": "Premium Casual Shirt",
+      "slug": "premium-casual-shirt",
+      "description": "Premium Casual Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1899,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "shirts",
+      "brand": "StyleCraft",
+      "gender": "Men",
+      "color": "White",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 12,
+      "rating": 4.7,
+      "reviews": 297,
+      "thumbnail": "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-003",
+      "title": "Slim Fit Oxford Shirt",
+      "slug": "slim-fit-oxford-shirt",
+      "description": "Slim Fit Oxford Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2099,
+      "discount": 20,
+      "category": "men",
+      "subcategory": "shirts",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "Sky Blue",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 8,
+      "rating": 4.2,
+      "reviews": 129,
+      "thumbnail": "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-004",
+      "title": "Classic Polo Shirt",
+      "slug": "classic-polo-shirt",
+      "description": "Classic Polo Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1499,
+      "discount": 0,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Urban Edge",
+      "gender": "Men",
+      "color": "Navy",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 41,
+      "rating": 4.3,
+      "reviews": 350,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-005",
+      "title": "Graphic Street T-Shirt",
+      "slug": "graphic-street-t-shirt",
+      "description": "Graphic Street T-Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1399,
+      "discount": 20,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Street Lab",
+      "gender": "Men",
+      "color": "Charcoal",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 20,
+      "rating": 4.5,
+      "reviews": 160,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-006",
+      "title": "Heavyweight Basic Tee",
+      "slug": "heavyweight-basic-tee",
+      "description": "Heavyweight Basic Tee designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1199,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Street Lab",
+      "gender": "Men",
+      "color": "Cream",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 33,
+      "rating": 4.4,
+      "reviews": 97,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-007",
+      "title": "Linen Casual Shirt",
+      "slug": "linen-casual-shirt",
+      "description": "Linen Casual Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2299,
+      "discount": 18,
+      "category": "men",
+      "subcategory": "shirts",
+      "brand": "StyleCraft",
+      "gender": "Men",
+      "color": "Beige",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 12,
+      "rating": 4.3,
+      "reviews": 67,
+      "thumbnail": "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-008",
+      "title": "Denim Overshirt",
+      "slug": "denim-overshirt",
+      "description": "Denim Overshirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2799,
+      "discount": 18,
+      "category": "men",
+      "subcategory": "jackets",
+      "brand": "Denim House",
+      "gender": "Men",
+      "color": "Blue",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 44,
+      "rating": 4.4,
+      "reviews": 40,
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-009",
+      "title": "Premium Denim Jacket",
+      "slug": "premium-denim-jacket",
+      "description": "Premium Denim Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3299,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "jackets",
+      "brand": "Denim House",
+      "gender": "Men",
+      "color": "Blue",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 30,
+      "rating": 4.3,
+      "reviews": 168,
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-010",
+      "title": "Bomber Jacket",
+      "slug": "bomber-jacket",
+      "description": "Bomber Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3899,
+      "discount": 18,
+      "category": "men",
+      "subcategory": "jackets",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Olive",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 42,
+      "rating": 4.3,
+      "reviews": 53,
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-011",
+      "title": "Relaxed Cargo Pants",
+      "slug": "relaxed-cargo-pants",
+      "description": "Relaxed Cargo Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "pants",
+      "brand": "Urban Edge",
+      "gender": "Men",
+      "color": "Olive",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 24,
+      "rating": 4.9,
+      "reviews": 137,
+      "thumbnail": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-012",
+      "title": "Straight Fit Denim",
+      "slug": "straight-fit-denim",
+      "description": "Straight Fit Denim designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2499,
+      "discount": 20,
+      "category": "men",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Men",
+      "color": "Dark Blue",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 23,
+      "rating": 4.5,
+      "reviews": 204,
+      "thumbnail": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-013",
+      "title": "Slim Fit Jeans",
+      "slug": "slim-fit-jeans",
+      "description": "Slim Fit Jeans designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 18,
+      "category": "men",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 28,
+      "rating": 4.3,
+      "reviews": 154,
+      "thumbnail": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-014",
+      "title": "Classic Chino Pants",
+      "slug": "classic-chino-pants",
+      "description": "Classic Chino Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1999,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "pants",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "Khaki",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 40,
+      "rating": 4.7,
+      "reviews": 101,
+      "thumbnail": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-015",
+      "title": "Formal Dress Pants",
+      "slug": "formal-dress-pants",
+      "description": "Formal Dress Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 20,
+      "category": "men",
+      "subcategory": "pants",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "Charcoal",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 23,
+      "rating": 4.9,
+      "reviews": 345,
+      "thumbnail": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-016",
+      "title": "Knit Sweater",
+      "slug": "knit-sweater",
+      "description": "Knit Sweater designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2699,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "sweaters",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Brown",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 26,
+      "rating": 4.8,
+      "reviews": 415,
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-017",
+      "title": "Cable Knit Pullover",
+      "slug": "cable-knit-pullover",
+      "description": "Cable Knit Pullover designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2899,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "sweaters",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Cream",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 8,
+      "rating": 4.8,
+      "reviews": 223,
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-018",
+      "title": "Hooded Sweatshirt",
+      "slug": "hooded-sweatshirt",
+      "description": "Hooded Sweatshirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2499,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "hoodies",
+      "brand": "Street Lab",
+      "gender": "Men",
+      "color": "Grey",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 19,
+      "rating": 4.8,
+      "reviews": 308,
+      "thumbnail": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-019",
+      "title": "Classic Zip Hoodie",
+      "slug": "classic-zip-hoodie",
+      "description": "Classic Zip Hoodie designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2699,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "hoodies",
+      "brand": "Street Lab",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 37,
+      "rating": 4.5,
+      "reviews": 347,
+      "thumbnail": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-020",
+      "title": "Relaxed Hoodie",
+      "slug": "relaxed-hoodie",
+      "description": "Relaxed Hoodie designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "hoodies",
+      "brand": "Urban Edge",
+      "gender": "Men",
+      "color": "Green",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 22,
+      "rating": 4.3,
+      "reviews": 399,
+      "thumbnail": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-021",
+      "title": "Training Joggers",
+      "slug": "training-joggers",
+      "description": "Training Joggers designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1899,
+      "discount": 15,
+      "category": "men",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 43,
+      "rating": 4.5,
+      "reviews": 316,
+      "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-022",
+      "title": "Performance T-Shirt",
+      "slug": "performance-t-shirt",
+      "description": "Performance T-Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1599,
+      "discount": 18,
+      "category": "men",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Men",
+      "color": "Red",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 20,
+      "rating": 4.9,
+      "reviews": 88,
+      "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-023",
+      "title": "Running Shorts",
+      "slug": "running-shorts",
+      "description": "Running Shorts designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1299,
+      "discount": 25,
+      "category": "men",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 11,
+      "rating": 4.7,
+      "reviews": 74,
+      "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-024",
+      "title": "Casual Shorts",
+      "slug": "casual-shorts",
+      "description": "Casual Shorts designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1399,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "shorts",
+      "brand": "Urban Edge",
+      "gender": "Men",
+      "color": "Khaki",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 33,
+      "rating": 4.6,
+      "reviews": 215,
+      "thumbnail": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-025",
+      "title": "Textured Resort Shirt",
+      "slug": "textured-resort-shirt",
+      "description": "Textured Resort Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1999,
+      "discount": 25,
+      "category": "men",
+      "subcategory": "shirts",
+      "brand": "StyleCraft",
+      "gender": "Men",
+      "color": "Green",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 39,
+      "rating": 4.4,
+      "reviews": 301,
+      "thumbnail": "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-026",
+      "title": "Flannel Check Shirt",
+      "slug": "flannel-check-shirt",
+      "description": "Flannel Check Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "shirts",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Red",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 40,
+      "rating": 4.7,
+      "reviews": 411,
+      "thumbnail": "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-027",
+      "title": "Corduroy Shirt",
+      "slug": "corduroy-shirt",
+      "description": "Corduroy Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2299,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "shirts",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Brown",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 24,
+      "rating": 4.5,
+      "reviews": 250,
+      "thumbnail": "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-028",
+      "title": "Minimal Henley",
+      "slug": "minimal-henley",
+      "description": "Minimal Henley designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1299,
+      "discount": 15,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "White",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 38,
+      "rating": 4.7,
+      "reviews": 277,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-029",
+      "title": "Long Sleeve Tee",
+      "slug": "long-sleeve-tee",
+      "description": "Long Sleeve Tee designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1399,
+      "discount": 15,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Urban Edge",
+      "gender": "Men",
+      "color": "Navy",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 38,
+      "rating": 4.6,
+      "reviews": 96,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-030",
+      "title": "Premium Track Jacket",
+      "slug": "premium-track-jacket",
+      "description": "Premium Track Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2999,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 40,
+      "rating": 4.9,
+      "reviews": 289,
+      "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-031",
+      "title": "Waterproof Windbreaker",
+      "slug": "waterproof-windbreaker",
+      "description": "Waterproof Windbreaker designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3499,
+      "discount": 18,
+      "category": "men",
+      "subcategory": "jackets",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Grey",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 37,
+      "rating": 4.2,
+      "reviews": 203,
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-032",
+      "title": "Quilted Winter Jacket",
+      "slug": "quilted-winter-jacket",
+      "description": "Quilted Winter Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 4999,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "jackets",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 9,
+      "rating": 4.4,
+      "reviews": 308,
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-033",
+      "title": "Classic Trucker Jacket",
+      "slug": "classic-trucker-jacket",
+      "description": "Classic Trucker Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3599,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "jackets",
+      "brand": "Denim House",
+      "gender": "Men",
+      "color": "Blue",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 37,
+      "rating": 4.8,
+      "reviews": 407,
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-034",
+      "title": "Tapered Cargo Joggers",
+      "slug": "tapered-cargo-joggers",
+      "description": "Tapered Cargo Joggers designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2299,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "pants",
+      "brand": "Street Lab",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 14,
+      "rating": 4.7,
+      "reviews": 299,
+      "thumbnail": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-035",
+      "title": "Pleated Wide Pants",
+      "slug": "pleated-wide-pants",
+      "description": "Pleated Wide Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 15,
+      "category": "men",
+      "subcategory": "pants",
+      "brand": "StyleCraft",
+      "gender": "Men",
+      "color": "Stone",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 39,
+      "rating": 4.8,
+      "reviews": 234,
+      "thumbnail": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-036",
+      "title": "Classic Black Suit",
+      "slug": "classic-black-suit",
+      "description": "Classic Black Suit designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 6999,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "formal",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 25,
+      "rating": 4.5,
+      "reviews": 361,
+      "thumbnail": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-037",
+      "title": "Slim Fit Blazer",
+      "slug": "slim-fit-blazer",
+      "description": "Slim Fit Blazer designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 4499,
+      "discount": 25,
+      "category": "men",
+      "subcategory": "formal",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "Navy",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 39,
+      "rating": 4.5,
+      "reviews": 144,
+      "thumbnail": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-038",
+      "title": "Textured Formal Shirt",
+      "slug": "textured-formal-shirt",
+      "description": "Textured Formal Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2499,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "formal",
+      "brand": "StyleCraft",
+      "gender": "Men",
+      "color": "White",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 27,
+      "rating": 4.2,
+      "reviews": 301,
+      "thumbnail": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-039",
+      "title": "Premium Polo",
+      "slug": "premium-polo",
+      "description": "Premium Polo designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1699,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "Maroon",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 6,
+      "rating": 4.2,
+      "reviews": 341,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-040",
+      "title": "Striped Casual Tee",
+      "slug": "striped-casual-tee",
+      "description": "Striped Casual Tee designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1399,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "t-shirts",
+      "brand": "Urban Edge",
+      "gender": "Men",
+      "color": "White",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 10,
+      "rating": 4.8,
+      "reviews": 187,
+      "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-041",
+      "title": "Vintage Wash Jeans",
+      "slug": "vintage-wash-jeans",
+      "description": "Vintage Wash Jeans designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2699,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Men",
+      "color": "Light Blue",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 23,
+      "rating": 4.7,
+      "reviews": 127,
+      "thumbnail": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-042",
+      "title": "Relaxed Denim Jeans",
+      "slug": "relaxed-denim-jeans",
+      "description": "Relaxed Denim Jeans designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2599,
+      "discount": 10,
+      "category": "men",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Men",
+      "color": "Blue",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 42,
+      "rating": 4.6,
+      "reviews": 142,
+      "thumbnail": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-043",
+      "title": "Linen Blend Trousers",
+      "slug": "linen-blend-trousers",
+      "description": "Linen Blend Trousers designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2499,
+      "discount": 20,
+      "category": "men",
+      "subcategory": "pants",
+      "brand": "StyleCraft",
+      "gender": "Men",
+      "color": "Beige",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "inStock": true,
+      "stock": 18,
+      "rating": 4.3,
+      "reviews": 355,
+      "thumbnail": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-044",
+      "title": "Utility Vest",
+      "slug": "utility-vest",
+      "description": "Utility Vest designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2499,
+      "discount": 18,
+      "category": "men",
+      "subcategory": "jackets",
+      "brand": "Street Lab",
+      "gender": "Men",
+      "color": "Black",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 33,
+      "rating": 4.5,
+      "reviews": 391,
+      "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-045",
+      "title": "Fleece Pullover",
+      "slug": "fleece-pullover",
+      "description": "Fleece Pullover designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2799,
+      "discount": 5,
+      "category": "men",
+      "subcategory": "sweaters",
+      "brand": "North Lane",
+      "gender": "Men",
+      "color": "Grey",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 9,
+      "rating": 4.5,
+      "reviews": 191,
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-046",
+      "title": "Quarter Zip Sweatshirt",
+      "slug": "quarter-zip-sweatshirt",
+      "description": "Quarter Zip Sweatshirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2899,
+      "discount": 12,
+      "category": "men",
+      "subcategory": "sweaters",
+      "brand": "MoveFit",
+      "gender": "Men",
+      "color": "Navy",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 18,
+      "rating": 4.3,
+      "reviews": 247,
+      "thumbnail": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-047",
+      "title": "Sports Training Shorts",
+      "slug": "sports-training-shorts",
+      "description": "Sports Training Shorts designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1199,
+      "discount": 20,
+      "category": "men",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Men",
+      "color": "Blue",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 17,
+      "rating": 4.4,
+      "reviews": 145,
+      "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-048",
+      "title": "Active Track Pants",
+      "slug": "active-track-pants",
+      "description": "Active Track Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1999,
+      "discount": 25,
+      "category": "men",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Men",
+      "color": "Grey",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 41,
+      "rating": 4.3,
+      "reviews": 351,
+      "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-049",
+      "title": "Everyday Basic Shirt",
+      "slug": "everyday-basic-shirt",
+      "description": "Everyday Basic Shirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1799,
+      "discount": 0,
+      "category": "men",
+      "subcategory": "shirts",
+      "brand": "Gentle Wear",
+      "gender": "Men",
+      "color": "Light Blue",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 11,
+      "rating": 4.8,
+      "reviews": 139,
+      "thumbnail": "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1596755059308-f1a7b3e7b6a5?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-050",
+      "title": "Premium Cotton Kurta",
+      "slug": "premium-cotton-kurta",
+      "description": "Premium Cotton Kurta designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 20,
+      "category": "men",
+      "subcategory": "traditional",
+      "brand": "Heritage Wear",
+      "gender": "Men",
+      "color": "White",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 37,
+      "rating": 4.5,
+      "reviews": 223,
+      "thumbnail": "https://images.unsplash.com/photo-1597983073493-88cd35cf93e0?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1597983073493-88cd35cf93e0?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-051",
+      "title": "Floral Midi Dress",
+      "slug": "floral-midi-dress",
+      "description": "Floral Midi Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2499,
+      "discount": 10,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Pink",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 30,
+      "rating": 4.2,
+      "reviews": 217,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-052",
+      "title": "Elegant Satin Dress",
+      "slug": "elegant-satin-dress",
+      "description": "Elegant Satin Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2899,
+      "discount": 25,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Green",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 24,
+      "rating": 4.5,
+      "reviews": 392,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-053",
+      "title": "Casual Cotton Dress",
+      "slug": "casual-cotton-dress",
+      "description": "Casual Cotton Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 25,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Yellow",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 15,
+      "rating": 4.3,
+      "reviews": 129,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-054",
+      "title": "Printed Maxi Dress",
+      "slug": "printed-maxi-dress",
+      "description": "Printed Maxi Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2699,
+      "discount": 0,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Blue",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 26,
+      "rating": 4.2,
+      "reviews": 317,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-055",
+      "title": "Ribbed Knit Dress",
+      "slug": "ribbed-knit-dress",
+      "description": "Ribbed Knit Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 10,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Brown",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 9,
+      "rating": 4.9,
+      "reviews": 59,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-056",
+      "title": "Pleated Midi Dress",
+      "slug": "pleated-midi-dress",
+      "description": "Pleated Midi Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2999,
+      "discount": 5,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Lavender",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 44,
+      "rating": 4.2,
+      "reviews": 138,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-057",
+      "title": "Classic Wrap Dress",
+      "slug": "classic-wrap-dress",
+      "description": "Classic Wrap Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2799,
+      "discount": 5,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Red",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 42,
+      "rating": 4.4,
+      "reviews": 322,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-058",
+      "title": "Minimal Slip Dress",
+      "slug": "minimal-slip-dress",
+      "description": "Minimal Slip Dress designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2599,
+      "discount": 5,
+      "category": "women",
+      "subcategory": "dresses",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 32,
+      "rating": 4.7,
+      "reviews": 307,
+      "thumbnail": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-059",
+      "title": "Casual Crop Top",
+      "slug": "casual-crop-top",
+      "description": "Casual Crop Top designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1199,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "tops",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "White",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 22,
+      "rating": 4.3,
+      "reviews": 384,
+      "thumbnail": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-060",
+      "title": "Ribbed Basic Top",
+      "slug": "ribbed-basic-top",
+      "description": "Ribbed Basic Top designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1099,
+      "discount": 12,
+      "category": "women",
+      "subcategory": "tops",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 22,
+      "rating": 4.5,
+      "reviews": 361,
+      "thumbnail": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-061",
+      "title": "Oversized Blouse",
+      "slug": "oversized-blouse",
+      "description": "Oversized Blouse designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1699,
+      "discount": 25,
+      "category": "women",
+      "subcategory": "tops",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Cream",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 26,
+      "rating": 4.9,
+      "reviews": 55,
+      "thumbnail": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-062",
+      "title": "Satin Blouse",
+      "slug": "satin-blouse",
+      "description": "Satin Blouse designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1899,
+      "discount": 25,
+      "category": "women",
+      "subcategory": "tops",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Champagne",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 45,
+      "rating": 4.9,
+      "reviews": 69,
+      "thumbnail": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-063",
+      "title": "Long Sleeve Top",
+      "slug": "long-sleeve-top",
+      "description": "Long Sleeve Top designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1399,
+      "discount": 12,
+      "category": "women",
+      "subcategory": "tops",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Brown",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 38,
+      "rating": 4.4,
+      "reviews": 196,
+      "thumbnail": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-064",
+      "title": "Knit Cardigan",
+      "slug": "knit-cardigan",
+      "description": "Knit Cardigan designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 12,
+      "category": "women",
+      "subcategory": "sweaters",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Beige",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 29,
+      "rating": 4.4,
+      "reviews": 242,
+      "thumbnail": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-065",
+      "title": "Soft Wool Sweater",
+      "slug": "soft-wool-sweater",
+      "description": "Soft Wool Sweater designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2799,
+      "discount": 15,
+      "category": "women",
+      "subcategory": "sweaters",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Cream",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 45,
+      "rating": 4.9,
+      "reviews": 352,
+      "thumbnail": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-066",
+      "title": "Cable Knit Cardigan",
+      "slug": "cable-knit-cardigan",
+      "description": "Cable Knit Cardigan designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2599,
+      "discount": 0,
+      "category": "women",
+      "subcategory": "sweaters",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Pink",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 41,
+      "rating": 4.4,
+      "reviews": 357,
+      "thumbnail": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-067",
+      "title": "Oversized Blazer",
+      "slug": "oversized-blazer",
+      "description": "Oversized Blazer designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3599,
+      "discount": 10,
+      "category": "women",
+      "subcategory": "blazers",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Beige",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 22,
+      "rating": 4.3,
+      "reviews": 72,
+      "thumbnail": "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-068",
+      "title": "Tailored Black Blazer",
+      "slug": "tailored-black-blazer",
+      "description": "Tailored Black Blazer designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3999,
+      "discount": 10,
+      "category": "women",
+      "subcategory": "blazers",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 23,
+      "rating": 4.4,
+      "reviews": 125,
+      "thumbnail": "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-069",
+      "title": "Cropped Blazer",
+      "slug": "cropped-blazer",
+      "description": "Cropped Blazer designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3299,
+      "discount": 12,
+      "category": "women",
+      "subcategory": "blazers",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Grey",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 22,
+      "rating": 4.6,
+      "reviews": 146,
+      "thumbnail": "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-070",
+      "title": "High Waist Wide Jeans",
+      "slug": "high-waist-wide-jeans",
+      "description": "High Waist Wide Jeans designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 5,
+      "category": "women",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Women",
+      "color": "Blue",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 33,
+      "rating": 4.8,
+      "reviews": 40,
+      "thumbnail": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-071",
+      "title": "Straight Leg Jeans",
+      "slug": "straight-leg-jeans",
+      "description": "Straight Leg Jeans designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2299,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Women",
+      "color": "Light Blue",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 14,
+      "rating": 4.6,
+      "reviews": 152,
+      "thumbnail": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-072",
+      "title": "Mom Fit Jeans",
+      "slug": "mom-fit-jeans",
+      "description": "Mom Fit Jeans designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 25,
+      "category": "women",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Women",
+      "color": "Blue",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 41,
+      "rating": 4.7,
+      "reviews": 305,
+      "thumbnail": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-073",
+      "title": "Black Skinny Jeans",
+      "slug": "black-skinny-jeans",
+      "description": "Black Skinny Jeans designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2099,
+      "discount": 5,
+      "category": "women",
+      "subcategory": "jeans",
+      "brand": "Denim House",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 10,
+      "rating": 4.9,
+      "reviews": 371,
+      "thumbnail": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-074",
+      "title": "Wide Leg Trousers",
+      "slug": "wide-leg-trousers",
+      "description": "Wide Leg Trousers designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 0,
+      "category": "women",
+      "subcategory": "pants",
+      "brand": "StyleCraft",
+      "gender": "Women",
+      "color": "Beige",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 29,
+      "rating": 4.6,
+      "reviews": 93,
+      "thumbnail": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-075",
+      "title": "Pleated Office Pants",
+      "slug": "pleated-office-pants",
+      "description": "Pleated Office Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2299,
+      "discount": 10,
+      "category": "women",
+      "subcategory": "pants",
+      "brand": "StyleCraft",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 8,
+      "rating": 4.4,
+      "reviews": 38,
+      "thumbnail": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-076",
+      "title": "Relaxed Linen Pants",
+      "slug": "relaxed-linen-pants",
+      "description": "Relaxed Linen Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 12,
+      "category": "women",
+      "subcategory": "pants",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "White",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 21,
+      "rating": 4.7,
+      "reviews": 199,
+      "thumbnail": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-077",
+      "title": "Cargo Utility Pants",
+      "slug": "cargo-utility-pants",
+      "description": "Cargo Utility Pants designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 20,
+      "category": "women",
+      "subcategory": "pants",
+      "brand": "Street Lab",
+      "gender": "Women",
+      "color": "Olive",
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "inStock": true,
+      "stock": 45,
+      "rating": 4.7,
+      "reviews": 139,
+      "thumbnail": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-078",
+      "title": "Leather Look Jacket",
+      "slug": "leather-look-jacket",
+      "description": "Leather Look Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3899,
+      "discount": 10,
+      "category": "women",
+      "subcategory": "jackets",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 32,
+      "rating": 4.2,
+      "reviews": 395,
+      "thumbnail": "https://images.unsplash.com/photo-1548126032-079a0fb0099d?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1548126032-079a0fb0099d?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-079",
+      "title": "Cropped Denim Jacket",
+      "slug": "cropped-denim-jacket",
+      "description": "Cropped Denim Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2999,
+      "discount": 20,
+      "category": "women",
+      "subcategory": "jackets",
+      "brand": "Denim House",
+      "gender": "Women",
+      "color": "Blue",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 21,
+      "rating": 4.4,
+      "reviews": 377,
+      "thumbnail": "https://images.unsplash.com/photo-1548126032-079a0fb0099d?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1548126032-079a0fb0099d?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-080",
+      "title": "Quilted Puffer Jacket",
+      "slug": "quilted-puffer-jacket",
+      "description": "Quilted Puffer Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 4299,
+      "discount": 20,
+      "category": "women",
+      "subcategory": "jackets",
+      "brand": "North Lane",
+      "gender": "Women",
+      "color": "Cream",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 8,
+      "rating": 4.8,
+      "reviews": 131,
+      "thumbnail": "https://images.unsplash.com/photo-1548126032-079a0fb0099d?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1548126032-079a0fb0099d?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-081",
+      "title": "Oversized Hoodie",
+      "slug": "oversized-hoodie",
+      "description": "Oversized Hoodie designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2499,
+      "discount": 25,
+      "category": "women",
+      "subcategory": "hoodies",
+      "brand": "Street Lab",
+      "gender": "Women",
+      "color": "Grey",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 28,
+      "rating": 4.4,
+      "reviews": 134,
+      "thumbnail": "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-082",
+      "title": "Cropped Hoodie",
+      "slug": "cropped-hoodie",
+      "description": "Cropped Hoodie designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2299,
+      "discount": 0,
+      "category": "women",
+      "subcategory": "hoodies",
+      "brand": "Street Lab",
+      "gender": "Women",
+      "color": "Pink",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 18,
+      "rating": 4.5,
+      "reviews": 160,
+      "thumbnail": "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-083",
+      "title": "Relaxed Sweatshirt",
+      "slug": "relaxed-sweatshirt",
+      "description": "Relaxed Sweatshirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 15,
+      "category": "women",
+      "subcategory": "hoodies",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Lavender",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 28,
+      "rating": 4.6,
+      "reviews": 222,
+      "thumbnail": "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1578681994506-b8f463449011?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-084",
+      "title": "Active Leggings",
+      "slug": "active-leggings",
+      "description": "Active Leggings designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1799,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 7,
+      "rating": 4.3,
+      "reviews": 151,
+      "thumbnail": "https://images.unsplash.com/photo-1506629905607-d9b1b2e3c1e0?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1506629905607-d9b1b2e3c1e0?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-085",
+      "title": "Performance Crop Top",
+      "slug": "performance-crop-top",
+      "description": "Performance Crop Top designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1499,
+      "discount": 15,
+      "category": "women",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Women",
+      "color": "Purple",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 8,
+      "rating": 4.3,
+      "reviews": 240,
+      "thumbnail": "https://images.unsplash.com/photo-1506629905607-d9b1b2e3c1e0?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1506629905607-d9b1b2e3c1e0?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-086",
+      "title": "Training Jacket",
+      "slug": "training-jacket",
+      "description": "Training Jacket designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2699,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "activewear",
+      "brand": "MoveFit",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 33,
+      "rating": 4.6,
+      "reviews": 279,
+      "thumbnail": "https://images.unsplash.com/photo-1506629905607-d9b1b2e3c1e0?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1506629905607-d9b1b2e3c1e0?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-087",
+      "title": "Pleated Tennis Skirt",
+      "slug": "pleated-tennis-skirt",
+      "description": "Pleated Tennis Skirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1699,
+      "discount": 20,
+      "category": "women",
+      "subcategory": "skirts",
+      "brand": "MoveFit",
+      "gender": "Women",
+      "color": "White",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 42,
+      "rating": 4.3,
+      "reviews": 40,
+      "thumbnail": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-088",
+      "title": "Satin Midi Skirt",
+      "slug": "satin-midi-skirt",
+      "description": "Satin Midi Skirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2199,
+      "discount": 0,
+      "category": "women",
+      "subcategory": "skirts",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Champagne",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 39,
+      "rating": 4.8,
+      "reviews": 293,
+      "thumbnail": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-089",
+      "title": "Denim Mini Skirt",
+      "slug": "denim-mini-skirt",
+      "description": "Denim Mini Skirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1899,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "skirts",
+      "brand": "Denim House",
+      "gender": "Women",
+      "color": "Blue",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 33,
+      "rating": 4.2,
+      "reviews": 358,
+      "thumbnail": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-090",
+      "title": "Floral Maxi Skirt",
+      "slug": "floral-maxi-skirt",
+      "description": "Floral Maxi Skirt designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2299,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "skirts",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Pink",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 13,
+      "rating": 4.7,
+      "reviews": 171,
+      "thumbnail": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-091",
+      "title": "Classic Cotton Kurti",
+      "slug": "classic-cotton-kurti",
+      "description": "Classic Cotton Kurti designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1999,
+      "discount": 15,
+      "category": "women",
+      "subcategory": "traditional",
+      "brand": "Heritage Wear",
+      "gender": "Women",
+      "color": "White",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 32,
+      "rating": 4.4,
+      "reviews": 374,
+      "thumbnail": "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-092",
+      "title": "Embroidered Kurti",
+      "slug": "embroidered-kurti",
+      "description": "Embroidered Kurti designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2699,
+      "discount": 10,
+      "category": "women",
+      "subcategory": "traditional",
+      "brand": "Heritage Wear",
+      "gender": "Women",
+      "color": "Maroon",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 18,
+      "rating": 4.5,
+      "reviews": 212,
+      "thumbnail": "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-093",
+      "title": "Printed Salwar Top",
+      "slug": "printed-salwar-top",
+      "description": "Printed Salwar Top designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2399,
+      "discount": 15,
+      "category": "women",
+      "subcategory": "traditional",
+      "brand": "Heritage Wear",
+      "gender": "Women",
+      "color": "Green",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 31,
+      "rating": 4.6,
+      "reviews": 18,
+      "thumbnail": "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-094",
+      "title": "Minimal Abaya",
+      "slug": "minimal-abaya",
+      "description": "Minimal Abaya designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 3299,
+      "discount": 15,
+      "category": "women",
+      "subcategory": "traditional",
+      "brand": "Heritage Wear",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 19,
+      "rating": 4.5,
+      "reviews": 314,
+      "thumbnail": "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e4?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-095",
+      "title": "Pleated Chiffon Hijab",
+      "slug": "pleated-chiffon-hijab",
+      "description": "Pleated Chiffon Hijab designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 699,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "accessories",
+      "brand": "Heritage Wear",
+      "gender": "Women",
+      "color": "Dusty Rose",
+      "sizes": [
+        "One Size"
+      ],
+      "inStock": true,
+      "stock": 35,
+      "rating": 4.5,
+      "reviews": 363,
+      "thumbnail": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-096",
+      "title": "Soft Jersey Hijab",
+      "slug": "soft-jersey-hijab",
+      "description": "Soft Jersey Hijab designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 599,
+      "discount": 25,
+      "category": "women",
+      "subcategory": "accessories",
+      "brand": "Heritage Wear",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "One Size"
+      ],
+      "inStock": true,
+      "stock": 16,
+      "rating": 4.7,
+      "reviews": 163,
+      "thumbnail": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-097",
+      "title": "Structured Handbag",
+      "slug": "structured-handbag",
+      "description": "Structured Handbag designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 2999,
+      "discount": 18,
+      "category": "women",
+      "subcategory": "bags",
+      "brand": "Luna Fashion",
+      "gender": "Women",
+      "color": "Tan",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 11,
+      "rating": 4.8,
+      "reviews": 402,
+      "thumbnail": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85"
+      ]
+    },
+    {
+      "id": "fashion-098",
+      "title": "Mini Shoulder Bag",
+      "slug": "mini-shoulder-bag",
+      "description": "Mini Shoulder Bag designed with a modern fit, premium feel, and versatile style for everyday wear.",
+      "price": 1899,
+      "discount": 15,
+      "category": "women",
+      "subcategory": "bags",
+      "brand": "Bloom",
+      "gender": "Women",
+      "color": "Black",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "inStock": true,
+      "stock": 20,
+      "rating": 4.8,
+      "reviews": 93,
+      "thumbnail": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85"
+      ]
+    }
+  ]
+}

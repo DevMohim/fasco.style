@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { Poppins ,Volkhov} from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/shared/Navbar";
+import PeakyBlinder from "@/components/Homepage/PeakyBlinder";
+import NewsLetter from "@/components/Homepage/NewsLetter";
+import Footer from "@/components/shared/Footer";
 
 const volkhov = Volkhov({
   variable: "--font-volkovh",
@@ -22,13 +25,14 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html
-      lang="en"
-      className={`${volkhov.variable} ${poppins.variable}`}
-    >
+    <html lang="en" className={`${volkhov.variable} ${poppins.variable}`}>
       <body suppressHydrationWarning className="min-h-full flex flex-col">
         <Navbar />
-        {children}</body>
+        <main>{children}</main>
+        <PeakyBlinder />
+        <NewsLetter />
+        <Footer />
+      </body>
     </html>
   );
 }
